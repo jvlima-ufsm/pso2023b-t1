@@ -1,0 +1,1 @@
+**Correto**: esse conta linhas.
